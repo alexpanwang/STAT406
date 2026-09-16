@@ -1,0 +1,2 @@
+# install.packages("remotes")
+remotes::install_github("UBC-STAT/stat-406-rpackage", dependencies = TRUE)
